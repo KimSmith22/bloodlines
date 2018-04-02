@@ -37,9 +37,34 @@ a {
 }
 
 .orgs {
-  width: 20%;
+  width: 50%;
 }
 
 .orgs2 {
-  width: 60%;
+  width: 100%;
+}
+
+.info {
+  height: 570px;
+}
+
+/* scrollbar css */
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #000;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #000;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #817452;
 }
