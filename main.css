@@ -22,7 +22,7 @@ body {
 }
 
 a {
-  color: #817452;
+  color: #bb0404;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ a {
 }
 
 .orgs {
-  width: 50%;
+  width: 30%;
 }
 
 .orgs2 {
@@ -48,6 +48,13 @@ a {
   height: 570px;
   background-image: url('img/wallpaper.jpg');
   color: #817452;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 /* scrollbar css */
