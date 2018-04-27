@@ -45,7 +45,6 @@ a {
 }
 
 .info {
-  height: 570px;
   background-image: url('img/wallpaper.jpg');
   color: #817452;
 }
@@ -55,6 +54,10 @@ a {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+}
+
+.celebs {
+  text-decoration: none;
 }
 
 /* scrollbar css */
