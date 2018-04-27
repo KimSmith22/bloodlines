@@ -56,6 +56,11 @@ a {
     width: 70%;
 }
 
+img.wrap {
+  padding: .5em;
+  float: left;
+}
+
 .celebs {
   text-decoration: none;
 }
