@@ -44,6 +44,10 @@ a {
   width: 100%;
 }
 
+.ig{
+  width: 30%;
+}
+
 .info {
   background-image: url('img/wallpaper.jpg');
   color: #817452;
