@@ -12,10 +12,13 @@ body {
 }
 
 .logo {
-  width: 80%;
+  max-width: 80%;
 }
 
 .dLogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
 }
 
@@ -26,6 +29,7 @@ body {
 a {
   color: #fff;
   text-decoration: none;
+  background-color: transparent !important;
 }
 
 a:hover {
@@ -43,23 +47,23 @@ a:hover {
 }
 
 .imdb {
-  width: 80%;
+  max-width: 80%;
 }
 
-.orgs2 {
-  width: 80%;
+.wf {
+  max-width: 70%;
 }
 
 .ig{
-  width: 50%;
+  max-width: 50%;
 }
 
 .fb{
-  width: 50%;
+  max-width: 50%;
 }
 
 .vc {
-  width: 70%;
+  max-width: 70%;
 }
 
 .info {
@@ -78,12 +82,8 @@ img.wrap {
   float: left;
 }
 
-.celebs {
-  text-decoration: none;
-}
-
 .press {
-  max-width: 300px;
+  max-width: 150px;
 }
 
 /* scrollbar css */
