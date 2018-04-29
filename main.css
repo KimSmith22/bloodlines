@@ -82,6 +82,10 @@ img.wrap {
   text-decoration: none;
 }
 
+.press {
+  max-width: 300px;
+}
+
 /* scrollbar css */
 /* width */
 ::-webkit-scrollbar {
